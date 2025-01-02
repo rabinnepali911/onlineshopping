@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.head{
+    background-color: rgb(86, 126, 126);
+}
+.div-header {
+        display: flex;
+        justify-content: space-between;
+       padding-bottom: 30px;
+       padding-top: 10px;
+     
+        
+        
+        
+}
+li{
+   
+    list-style-type: none;
+    padding-bottom: 5px;
+    display: inline;
+    padding-right: 10px;
+    cursor: pointer;
+  
+
+}
+a{
+    color: darkgray;
+    text-decoration: none;
+}
+.name{
+    color: darkgray;
+    padding-top: 10px;
+}
+.logo{
+    height: 50px;
+}
