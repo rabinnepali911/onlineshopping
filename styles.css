@@ -36,3 +36,43 @@ a{
 .logo{
     height: 50px;
 }
+.shirt1{
+    height: 300px;
+    padding-top: 40px;
+    
+
+}
+.productname{
+    
+}
+.product1div{
+  
+}
+.product2div{
+    padding-right: 10px;
+    
+}
+.divline1{
+    display: flex;
+    padding-left: 30px;
+   
+}
+body{
+    background-color: blanchedalmond;
+}
+.divline2{
+    display: flex;
+    padding-left: 50px;
+
+}
+h4{
+    padding-top: 20px;
+    font-weight: bolder;
+
+}
+p{
+    padding-top: 10px;
+}
+botton{
+    padding-top: 20px;
+}
